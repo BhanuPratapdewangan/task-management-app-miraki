@@ -1,0 +1,25 @@
+
+
+#navbar
+{
+    box-shadow: 1px 1px 10px rgb(223, 223, 223);
+}
+.nav-bar
+{   
+  padding: 0px;
+  margin: 0px;
+}
+.nav-bar li
+{
+    display: inline-block;
+    padding: 20px;
+}
+.nav-bar li a
+{
+  text-decoration: none;
+}
+
+.nav-left 
+{
+    text-align: left;
+}

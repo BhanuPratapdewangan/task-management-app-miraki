@@ -1,0 +1,38 @@
+
+/* userRegister */
+
+.userRegister, .userLogin, .update-input
+{
+  margin-left: 42%;
+  margin-top: 4%;
+}
+.userRegister input, .userLogin input, .update-input input
+{
+  display: block;
+  padding: 9px;
+  margin-top: 20px;
+  background-color: rgb(244, 234, 253);
+  border-radius: 7px;
+  border:none;
+}
+
+
+/* SignUp & Login */
+.btnSignup, .btnLogin, .btnAddProduct, .btnUpdateProduct
+{
+  padding: 10px;
+  margin-top: 5%;
+  border: none;
+  width: 190px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+/* Error Message */
+
+.errorMsg
+{
+  display: block;
+  color: red;
+  margin: 3px;
+}
